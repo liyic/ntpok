@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>NTP OK</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body{background:#c8c8c8;font-size:14px;font-family:Tahoma,Helvetica,Arial,"Microsoft Yahei","微软雅黑",STXihei,"华文细黑",sans-serif;}
+div{width:300px;margin:0 auto;}
+a:link{color:blue;}
+a:visited{color:blue;}
+a:hover{color:blue;}
+a:active{color:blue;}
+</style>
+<script>if(location.protocol=="http:"){location.href="https://www.ntpok.com/";}</script>
+</head>
+<body>
+<div>
+<h2>NTP OK</h2>
+<p>时间同步服务器最新测试结果</p>
+<h3>服务器和查询耗时</h3>
+<p>[LIST]</p>
+<p>更新时间：[TIME]<br>
+测试环境：阿里云华北</p>
+<h3>时间同步的精度</h3>
+<p>根据<a href="https://en.wikipedia.org/wiki/Network_Time_Protocol">Wikipedia页面</a>和<a href="https://serverfault.com/questions/379739/how-well-will-ntpd-work-when-the-latency-is-highly-variable">ServerFault页面</a>，NTP（网络时间协议）考虑了“来回通信延迟”。<br>
+（“round-trip delay”，“round trips”）<br>
+（如果“来回通信延迟”不突变，就会很精确）</p>
+<h3>使用多个服务器</h3>
+<p>根据<a href="https://en.wikipedia.org/wiki/Network_Time_Protocol">Wikipedia页面</a>和<a href="https://insights.sei.cmu.edu/sei_blog/2017/04/best-practices-for-ntp-services.html">CMU页面</a>，NTP（网络时间协议）最好使用多个服务器。<br>
+（“three or more servers”）<br>
+（“multiple input servers”）</p>
+<h3>测试工具</h3>
+<p>这是一个开源项目：<br>
+<a href="https://github.com/ntpok/ntpok">https://github.com/ntpok/ntpok</a></p>
+<h3>电子邮件</h3>
+如果有任何建议，请联系 <a href="mailto:contact@ntpok.com">contact@ntpok.com</a>
+</div>
+</body>
+</html>
