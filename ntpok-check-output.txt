@@ -1,0 +1,11 @@
+ntp1.aliyun.com - 82ms
+stdtime.gov.hk - 59ms
+ntp.ntu.edu.tw - 66ms
+time.apple.com - 238ms
+time.windows.com - 257ms
+ntp.ubuntu.com - 440ms
+us.pool.ntp.org - 298ms
+clock.psu.edu - 280ms
+jp.pool.ntp.org - 271ms
+ntp.nict.jp - 236ms
+www.microsoft.com - X

@@ -1,0 +1,11 @@
+ntp1.aliyun.com
+stdtime.gov.hk
+ntp.ntu.edu.tw
+time.apple.com
+time.windows.com
+ntp.ubuntu.com
+us.pool.ntp.org
+clock.psu.edu
+jp.pool.ntp.org
+ntp.nict.jp
+www.microsoft.com
