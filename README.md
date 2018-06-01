@@ -1,4 +1,4 @@
-# ntpok
+# NTP OK
 自动测试NTP服务器
 * “ntpok-check.py” - 测试NTP消耗的时间
 * “ntpok-list.txt” - NTP服务器列表
@@ -8,3 +8,4 @@
 * “ntpok-page-template.html” - 网页模板
 * “ntpok-page-output.html” - 输出的网页
 * “ntpok-update.sh” - 整个更新过程的脚本
+* [https://www.ntpok.com/](https://www.ntpok.com/) - 最终结果
