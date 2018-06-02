@@ -8,4 +8,4 @@
 * “ntpok-page-template.html” - 网页模板
 * “ntpok-page-output.html” - 输出的网页
 * “ntpok-update.sh” - 整个更新过程的脚本
-* [https://www.ntpok.com/](https://www.ntpok.com/) - 最终结果
+* [http://www.ntpok.com/](http://www.ntpok.com/) - 最终结果
