@@ -8,8 +8,11 @@ cd /home/ntpok/ntpok.github.io
 rm -vf index.html
 cp /home/ntpok/ntpok/ntpok-page-output.html /home/ntpok/ntpok.github.io/index.html
 cd /home/ntpok/ntpok.github.io
-git add --all
-git commit -m "Update"
-git push -u origin master
+rm -rf .git
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin git@github.com:ntpok/ntpok.github.io.git
+git push -u --force origin master
 cd ..
 rm -vrf ntpok.github.io
