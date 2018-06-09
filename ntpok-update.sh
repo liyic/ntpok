@@ -1,4 +1,7 @@
 #!/bin/bash
+pkill git
+cd /home/ntpok
+rm -vrf ntpok.github.io
 cd /home/ntpok/ntpok
 python2 ntpok-check.py > ntpok-check-output.txt
 python2 ntpok-page.py
