@@ -1,3 +1,5 @@
+ntp.bupt.edu.cn
+ntp.shu.edu.cn
 ntp.synet.edu.cn
 ntp.neu.edu.cn
 s2f.time.edu.cn
@@ -11,8 +13,6 @@ time.apple.com
 time.windows.com
 ntp.ubuntu.com
 ntp0.ja.net
-ntp0.nl.net
-clock.uregina.ca
 clock.psu.edu
 now.okstate.edu
 ntp0.cornell.edu
