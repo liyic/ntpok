@@ -7,11 +7,6 @@ ntp3.neu.edu.cn
 clock.neu.edu.cn
 s2f.time.edu.cn
 ntp1.aliyun.com
-ntp2.aliyun.com
-ntp3.aliyun.com
-ntp4.aliyun.com
-ntp5.aliyun.com
-ntp6.aliyun.com
 ntp.ntu.edu.tw
 ntp2.ntu.edu.tw
 ntp.nict.jp
