@@ -1,15 +1,21 @@
-ntp.bupt.edu.cn
-ntp.shu.edu.cn
-ntp.synet.edu.cn
-ntp.neu.edu.cn
-ntp2.neu.edu.cn
-ntp3.neu.edu.cn
-clock.neu.edu.cn
-s2f.time.edu.cn
-ntp1.aliyun.com
-ntp.ntu.edu.tw
-ntp2.ntu.edu.tw
-ntp.nict.jp
-time.apple.com
-time.windows.com
-www.microsoft.com
+[CN] ntp.bupt.edu.cn
+[CN] ntp.shu.edu.cn
+[CN] ntp.synet.edu.cn
+[CN] ntp.neu.edu.cn
+[CN] ntp2.neu.edu.cn
+[CN] clock.neu.edu.cn
+[CN] s2f.time.edu.cn
+[CN] ntp1.aliyun.com
+[HK] stdtime.gov.hk
+[TW] ntp.ntu.edu.tw
+[TW] ntp2.ntu.edu.tw
+[JP] ntp.nict.jp
+[UK] ntp0.ja.net
+[UK] ntp1.ja.net
+[US] clock.psu.edu
+[US] now.okstate.edu
+[US] ntp0.cornell.edu
+[US] ntp.colby.edu
+[G] time.apple.com
+[G] time.windows.com
+[!] www.microsoft.com

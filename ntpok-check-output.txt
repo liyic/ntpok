@@ -1,15 +1,21 @@
-ntp.bupt.edu.cn - 57ms
-ntp.shu.edu.cn - 59ms
-ntp.synet.edu.cn - 69ms
-ntp.neu.edu.cn - 72ms
-ntp2.neu.edu.cn - 75ms
-ntp3.neu.edu.cn - 71ms
-clock.neu.edu.cn - 72ms
-s2f.time.edu.cn - 71ms
-ntp1.aliyun.com - 25ms
-ntp.ntu.edu.tw - 140ms
-ntp2.ntu.edu.tw - 126ms
-ntp.nict.jp - 244ms
-time.apple.com - 223ms
-time.windows.com - 328ms
-www.microsoft.com - X
+[CN] ntp.bupt.edu.cn - 56ms
+[CN] ntp.shu.edu.cn - 49ms
+[CN] ntp.synet.edu.cn - 82ms
+[CN] ntp.neu.edu.cn - 67ms
+[CN] ntp2.neu.edu.cn - 61ms
+[CN] clock.neu.edu.cn - 62ms
+[CN] s2f.time.edu.cn - 62ms
+[CN] ntp1.aliyun.com - 30ms
+[HK] stdtime.gov.hk - 34ms
+[TW] ntp.ntu.edu.tw - 123ms
+[TW] ntp2.ntu.edu.tw - 127ms
+[JP] ntp.nict.jp - 195ms
+[UK] ntp0.ja.net - 220ms
+[UK] ntp1.ja.net - 237ms
+[US] clock.psu.edu - 247ms
+[US] now.okstate.edu - 244ms
+[US] ntp0.cornell.edu - 326ms
+[US] ntp.colby.edu - 261ms
+[G] time.apple.com - !
+[G] time.windows.com - 277ms
+[!] www.microsoft.com - !

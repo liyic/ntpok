@@ -12,7 +12,6 @@ ul='<ul>'
 for i in range(len(lines)):
     ul=ul+'<li>'+lines[i]+'</li>'
 ul=ul+'</ul>'
-ul=ul.replace(' - X',' - ✘')
 
 now = datetime.datetime.now()
 t=now.strftime("%Y-%m-%d %H:%M:%S")

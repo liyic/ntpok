@@ -22,13 +22,19 @@ def ntpok_check():
     lines = map(lambda x: x.strip(), lines)
     lines = filter(None, lines)
     for i in range(len(lines)):
-        ntp_server=lines[i]
+        ntp_line=lines[i]
+        j=ntp_line.rfind(" ")
+        if j==-1:
+            ntp_server=ntp_line
+        else:
+            ntp_server=ntp_line[j+1:]
+        #print "-->"+ntp_server+"<--"
         t=timeit.timeit(ntpok_query,number=1)
         if ntp_error:
-            print ntp_server+" - X"
+            print ntp_line+" - !"
             ntp_error=None
         else:
-            print ntp_server+" - "+str(int(t*1000))+"ms"
+            print ntp_line+" - "+str(int(t*1000))+"ms"
 
 ntp_client = ntplib.NTPClient()
 ntp_server = ""
